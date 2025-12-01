@@ -1,4 +1,4 @@
-Nittes Devs — Agency Landing Page
+**Nittes Devs — Agency Landing Page**
 
 A simple and clean agency landing page built with Vite and Tailwind CSS.
 This project focuses on fast performance, responsive design, and easy customization.
